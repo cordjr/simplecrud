@@ -1,0 +1,7 @@
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\bin\Debug\SimpleCrud.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\bin\Debug\SimpleCrud.pdb
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrud\obj\Debug\SimpleCrud.pdb

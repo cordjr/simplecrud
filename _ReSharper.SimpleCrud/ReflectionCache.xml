@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="c24f4ab6-749e-4cf5-9b4a-f41d11f24b73" Timestamp="633522366640000000" XmlDocIndexTimestamp="633522366640000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="e5dc8cf4-618f-40e1-a443-c9000977cf16" Timestamp="633559850920000000" XmlDocIndexTimestamp="633559850920000000" />
+</Assemblies>

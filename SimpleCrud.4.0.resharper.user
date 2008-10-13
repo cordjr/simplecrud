@@ -1,0 +1,299 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Utils/f:ReflectionUtils.cs" caret="1998" scrollPosition="0|11" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:SimpleConfig.cs" caret="13" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Tests/f:Item.cs" caret="526" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Tests/f:Pessoa.cs" caret="865" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:SimpleBeanException.cs" caret="451" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:JoinConfig.cs" caret="601" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:IDBType.cs" caret="122" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:DBField.cs" caret="502" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:DataReaderDecorator.cs" caret="6257" scrollPosition="0|162" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:ConfigManager.cs" caret="752" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Core/f:ISimpleSession.cs" caret="203" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:AutoIncrementType.cs" caret="75" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanIntType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanStringType.cs" caret="108" scrollPosition="0|4" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DateTimeType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DecimalType.cs" caret="108" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DoubleType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:IntType.cs" caret="109" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:LongType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:SequenceType.cs" caret="136" scrollPosition="2|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:StringType.cs" caret="1189" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Tests/f:SQLServerSessionTest.cs" caret="1358" scrollPosition="0|19" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:Types.cs" caret="607" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="7477" scrollPosition="0|162" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="133" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="10047" scrollPosition="15|223" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Tests/f:SQLServerSessionTest.cs" caret="1379" scrollPosition="0|7" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Tests/f:SQLServerSessionTest.cs" caret="1879" scrollPosition="0|7" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:AutoIncrementType.cs" caret="81" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanIntType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanStringType.cs" caret="108" scrollPosition="0|4" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:BooleanType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DateTimeType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DecimalType.cs" caret="108" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:DoubleType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:IntType.cs" caret="109" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:LongType.cs" caret="110" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:SequenceType.cs" caret="136" scrollPosition="2|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:StringType.cs" caret="111" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:Types/f:Types.cs" caret="576" scrollPosition="0|0" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="12995" scrollPosition="0|301" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="11139" scrollPosition="0|249" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="708" scrollPosition="0|9" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="3881" scrollPosition="0|114" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="4122" scrollPosition="0|114" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="4409" scrollPosition="0|114" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="4927" scrollPosition="0|115" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="4593" scrollPosition="0|115" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="6727" scrollPosition="0|112" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="5314" scrollPosition="0|163" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="6986" scrollPosition="0|163" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="7120" scrollPosition="0|190" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="7329" scrollPosition="0|190" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SqlHelper.cs" caret="7692" scrollPosition="0|190" />
+      <File id="25814764-8B4B-4883-A789-3A9144D952AA/d:ADO/f:SQLServerSession.cs" caret="1343" scrollPosition="0|18" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="sealed" priority="0" />
+      <Item value="Boolean" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="StringComparison" priority="1" />
+      <Item value="InvariantCultureIgnoreCase" priority="1" />
+      <Item value="Reflection" priority="3" />
+      <Item value="Type" priority="8" />
+      <Item value="Collections" priority="3" />
+      <Item value="Generic" priority="0" />
+      <Item value="Emit" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="ToString" priority="9" />
+      <Item value="Name" priority="3" />
+      <Item value="Data" priority="3" />
+      <Item value="Sql" priority="2" />
+      <Item value="core" priority="0" />
+      <Item value="DBField" priority="3" />
+      <Item value="AbandonedMutexException" priority="0" />
+      <Item value="GetBoolean" priority="1" />
+      <Item value="GetInt32" priority="1" />
+      <Item value="getBoolValue" priority="0" />
+      <Item value="Parameters" priority="7" />
+      <Item value="[]" priority="0" />
+      <Item value="Value" priority="17" />
+      <Item value="DBNull" priority="2" />
+      <Item value="paramName" priority="2" />
+      <Item value="DbException" priority="0" />
+      <Item value="namespace" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="HasValue" priority="0" />
+      <Item value="Equals" priority="10" />
+      <Item value="GetString" priority="0" />
+      <Item value="STrue" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="GetValue" priority="7" />
+      <Item value="DbConnection" priority="1" />
+      <Item value="SimpleBeanException" priority="2" />
+      <Item value="BeginTransaction" priority="0" />
+      <Item value="DbTransaction" priority="0" />
+      <Item value="Specialized" priority="1" />
+      <Item value="GetHashCode" priority="1" />
+      <Item value="GetType" priority="10" />
+      <Item value="Add" priority="6" />
+      <Item value="KeyValuePair" priority="3" />
+      <Item value="JoinConfig" priority="1" />
+      <Item value="KeyValuePair&lt;Type,JoinConfig&gt;" priority="0" />
+      <Item value="KeyValuePair&lt;Join,JoinConfig&gt;" priority="0" />
+      <Item value="fieldList" priority="3" />
+      <Item value="Count" priority="5" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="SimpleCrud" priority="2" />
+      <Item value="getNumberOfFields" priority="0" />
+      <Item value="StringBuilder" priority="3" />
+      <Item value="Append" priority="16" />
+      <Item value="Fields" priority="9" />
+      <Item value="getDbName" priority="7" />
+      <Item value="TableName" priority="6" />
+      <Item value="hasPK" priority="0" />
+      <Item value="DbCommandBuilder" priority="0" />
+      <Item value="DbCommand" priority="1" />
+      <Item value="CreateCommand" priority="0" />
+      <Item value="CommandText" priority="0" />
+      <Item value="PropertyInfo" priority="3" />
+      <Item value="GetProperty" priority="0" />
+      <Item value="property" priority="0" />
+      <Item value="propertyName" priority="2" />
+      <Item value="DbParameterCollection" priority="1" />
+      <Item value="CreateParameter" priority="0" />
+      <Item value="ParameterName" priority="1" />
+      <Item value="getName" priority="7" />
+      <Item value="DbDataReader" priority="1" />
+      <Item value="ExecuteReader" priority="0" />
+      <Item value="Read" priority="0" />
+      <Item value="getType" priority="5" />
+      <Item value="getFromDataReader" priority="0" />
+      <Item value="SetPropertyValue" priority="3" />
+      <Item value="pks" priority="5" />
+      <Item value="GetStrParam" priority="0" />
+      <Item value="ExecuteNonQuery" priority="2" />
+      <Item value="IsPK" priority="4" />
+      <Item value="Direction" priority="0" />
+      <Item value="ReturnValue" priority="0" />
+      <Item value="getFirstPK" priority="0" />
+      <Item value="List&lt;JoinConfig&gt;" priority="1" />
+      <Item value="joins" priority="1" />
+      <Item value="Keys" priority="0" />
+      <Item value="Join" priority="0" />
+      <Item value="GetEnumerator" priority="2" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="Current" priority="1" />
+      <Item value="Values" priority="0" />
+      <Item value="GetJoinConfigList" priority="2" />
+      <Item value="ConfigManager" priority="0" />
+      <Item value="GetInstance" priority="1" />
+      <Item value="GetConfig" priority="1" />
+      <Item value="field" priority="0" />
+      <Item value="Get" priority="3" />
+      <Item value="foreginKeys" priority="0" />
+      <Item value="IDictionary" priority="0" />
+      <Item value="joinDic" priority="0" />
+      <Item value="GetJoinedConfig" priority="1" />
+      <Item value="getTableName" priority="2" />
+      <Item value="jConf" priority="4" />
+      <Item value="IEnumerator" priority="0" />
+      <Item value="GetJoins" priority="0" />
+      <Item value="AppendFormat" priority="0" />
+      <Item value="MoveNext" priority="0" />
+      <Item value="keyValue" priority="0" />
+      <Item value="Key" priority="0" />
+      <Item value="AppendLine" priority="0" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="0" />
+      <Item value="ReflectionUtils" priority="5" />
+      <Item value="GetPropertyValue" priority="6" />
+      <Item value="list" priority="0" />
+      <Item value="typeProp" priority="2" />
+      <Item value="LinkedList" priority="0" />
+      <Item value="IsAssignableFrom" priority="0" />
+      <Item value="GetConstructor" priority="4" />
+      <Item value="Invoke" priority="6" />
+      <Item value="GetFromDataReader" priority="0" />
+      <Item value="ArrayList" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="PropertyName" priority="1" />
+      <Item value="FillWithFullJoin" priority="0" />
+      <Item value="DecimalType" priority="0" />
+      <Item value="AddJoin" priority="0" />
+      <Item value="IList" priority="5" />
+      <Item value="items" priority="0" />
+      <Item value="ConfigureItem" priority="1" />
+      <Item value="StackTrace" priority="3" />
+      <Item value="Console" priority="0" />
+      <Item value="Out" priority="0" />
+      <Item value="WriteLine" priority="1" />
+      <Item value="NUnit" priority="0" />
+      <Item value="Framework" priority="0" />
+      <Item value="TestFixture" priority="1" />
+      <Item value="Test" priority="0" />
+      <Item value="ContainsKey" priority="0" />
+      <Item value="EmptyTypes" priority="2" />
+      <Item value="MakeGenericType" priority="1" />
+      <Item value="IsGenericType" priority="1" />
+      <Item value="params" priority="0" />
+      <Item value="MethodInfo" priority="0" />
+      <Item value="GetMethod" priority="0" />
+      <Item value="methodName" priority="0" />
+      <Item value="CallMethod" priority="0" />
+      <Item value="object" priority="2" />
+      <Item value="GetInterfaces" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="types" priority="0" />
+      <Item value="FullName" priority="3" />
+      <Item value="hashId" priority="1" />
+      <Item value="propInfoList" priority="2" />
+      <Item value="FindItemInList" priority="0" />
+      <Item value="GetPropertyInfo" priority="0" />
+      <Item value="Assert" priority="0" />
+      <Item value="Fail" priority="0" />
+      <Item value="mInfo" priority="0" />
+      <Item value="PropertyType" priority="1" />
+      <Item value="GetProperties" priority="0" />
+      <Item value="Items" priority="0" />
+      <Item value="AreEqual" priority="0" />
+      <Item value="DataNasc" priority="2" />
+      <Item value="DateTime" priority="0" />
+      <Item value="Parse" priority="0" />
+      <Item value="Nome" priority="2" />
+      <Item value="Insert" priority="0" />
+      <Item value="pessoa2" priority="4" />
+      <Item value="Id" priority="2" />
+      <Item value="pessoa1" priority="2" />
+      <Item value="HasAutoIncrementFields" priority="1" />
+      <Item value="config" priority="2" />
+      <Item value="CreateInsert" priority="0" />
+      <Item value="GetAutoIncrementFields" priority="0" />
+      <Item value="MakeColunsForUpdate" priority="0" />
+      <Item value="SqlHelper" priority="1" />
+      <Item value="CreateUpdate" priority="0" />
+      <Item value="FieldsToStringForSelect" priority="0" />
+      <Item value="CreateSelect" priority="0" />
+      <Item value="CreateSelectWithFullJoin" priority="2" />
+      <Item value="PKS" priority="1" />
+      <Item value="AutoIncrementType" priority="0" />
+      <Item value="IsTrue" priority="1" />
+      <Item value="Trim" priority="6" />
+      <Item value="IsPessoaEqual" priority="0" />
+      <Item value="Delete" priority="1" />
+      <Item value="Close" priority="2" />
+      <Item value="#endregion" priority="0" />
+      <Item value="SetUpFixture" priority="0" />
+      <Item value="SetUp" priority="0" />
+      <Item value="TestFixtureSetUp" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Debug" priority="0" />
+      <Item value="ConfigurePessoa" priority="0" />
+      <Item value="pessoa" priority="1" />
+      <Item value="Update" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="dataReader" priority="0" />
+      <Item value="GetOrdinal" priority="2" />
+      <Item value="GetByte" priority="0" />
+      <Item value="GetChar" priority="0" />
+      <Item value="fieldName" priority="2" />
+      <Item value="IsNullable" priority="1" />
+      <Item value="BindToCommand" priority="0" />
+      <Item value="param" priority="0" />
+      <Item value="Types" priority="0" />
+      <Item value="INT_TYPE" priority="1" />
+      <Item value="StringType" priority="0" />
+      <Item value="STRING_TYPE" priority="1" />
+      <Item value="DATE_TIME" priority="0" />
+      <Item value="uniqueResult" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

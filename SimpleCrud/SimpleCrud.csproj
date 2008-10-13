@@ -1,0 +1,73 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25814764-8B4B-4883-A789-3A9144D952AA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimpleCrud</RootNamespace>
+    <AssemblyName>SimpleCrud</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADO\SqlHelper.cs" />
+    <Compile Include="ADO\SQLServerSession.cs" />
+    <Compile Include="Core\ConfigManager.cs" />
+    <Compile Include="Core\DataReaderDecorator.cs" />
+    <Compile Include="Core\DBField.cs" />
+    <Compile Include="Core\IDBType.cs" />
+    <Compile Include="Core\ISimpleSession.cs" />
+    <Compile Include="Core\JoinConfig.cs" />
+    <Compile Include="Core\SimpleBeanException.cs" />
+    <Compile Include="Core\SimpleConfig.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests\Item.cs" />
+    <Compile Include="Tests\Pessoa.cs" />
+    <Compile Include="Tests\SQLServerSessionTest.cs" />
+    <Compile Include="Types\AutoIncrementType.cs" />
+    <Compile Include="Types\BooleanIntType.cs" />
+    <Compile Include="Types\BooleanStringType.cs" />
+    <Compile Include="Types\BooleanType.cs" />
+    <Compile Include="Types\DecimalType.cs" />
+    <Compile Include="Types\LongType.cs" />
+    <Compile Include="Types\DateTimeType.cs" />
+    <Compile Include="Types\DoubleType.cs" />
+    <Compile Include="Types\IntType.cs" />
+    <Compile Include="Types\SequenceType.cs" />
+    <Compile Include="Types\StringType.cs" />
+    <Compile Include="Types\Types.cs" />
+    <Compile Include="Utils\ReflectionUtils.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

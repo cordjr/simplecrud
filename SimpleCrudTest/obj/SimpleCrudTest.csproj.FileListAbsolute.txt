@@ -1,0 +1,7 @@
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\bin\Debug\SimpleCrudTest.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\bin\Debug\SimpleCrudTest.pdb
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\bin\Debug\SimpleCrud.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\bin\Debug\SimpleCrud.pdb
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\obj\Debug\SimpleCrudTest.dll
+C:\Documents and Settings\junior\Meus documentos\Visual Studio 2005\Projects\SimpleCrud\SimpleCrudTest\obj\Debug\SimpleCrudTest.pdb
