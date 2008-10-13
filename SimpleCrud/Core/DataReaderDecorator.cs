@@ -1,10 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
-
 using System.Data.Common;
+
 namespace SimpleCrud.Core {
-    public class DataReaderDecorator :DbDataReader {
+    public class DataReaderDecorator :DbDataReader{
 
         private  DbDataReader dataReader;
 

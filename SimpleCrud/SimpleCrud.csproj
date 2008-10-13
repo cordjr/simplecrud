@@ -37,7 +37,8 @@
     <Compile Include="ADO\SqlHelper.cs" />
     <Compile Include="ADO\SQLServerSession.cs" />
     <Compile Include="Core\ConfigManager.cs" />
-    <Compile Include="Core\DataReaderDecorator.cs" />
+    <Compile Include="Core\DataReaderDecorator.cs">
+    </Compile>
     <Compile Include="Core\DBField.cs" />
     <Compile Include="Core\IDBType.cs" />
     <Compile Include="Core\ISimpleSession.cs" />
