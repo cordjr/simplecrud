@@ -1,1 +1,0 @@
-JetBrains.ReSharper.Psi.CSharp4JetBrains.ReSharper.Psi.CSharp.Impl.CSharpUsingsInfoÍusing System;using System.Data.Common;using System.Data.SqlClient;using SimpleCrud.ADO;using SimpleCrud.Core;using SimpleCrud.Types;using NUnit.Framework;using System.Diagnostics;namespace SimpleCrud.Test{}

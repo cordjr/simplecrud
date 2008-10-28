@@ -1,1 +1,0 @@
-JetBrains.ReSharper.Psi.CSharp4JetBrains.ReSharper.Psi.CSharp.Impl.CSharpUsingsInfoqusing System;using System.Collections.Generic;using System.Text;using SimpleCrud.Core;namespace SimpleCrud.Types{}
